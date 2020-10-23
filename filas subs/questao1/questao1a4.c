@@ -1,4 +1,4 @@
-#include "questao1.h"
+#include "questao1a4.h"
 No *get_first(No *a)
 {
     No *p = a->prox;
@@ -42,8 +42,6 @@ FILA *inverter(FILA *a, PILHA *b)
     return a;
 }
 
-//FILAS
-
 void enqueue(FILA *f, int info)
 {
     f->fim = ins_fim(f->fim, info);
@@ -78,7 +76,6 @@ int vazia_fila(FILA *f)
 {
     return (f->ini == NULL);
 }
-//pilha
 void push(PILHA *p, int v)
 {
     p->prim = ins_ini(p->prim, v);

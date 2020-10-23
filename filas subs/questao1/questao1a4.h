@@ -6,6 +6,8 @@ struct no
     struct no *ant;
     struct no *prox;
 };
+#ifndef questao1a4_H
+#define questao1a4_H
 typedef struct no No;
 
 typedef struct fila
@@ -41,3 +43,4 @@ int dequeue(FILA *f);
 void enqueue(FILA *f, int info);
 int vazia_fila(FILA *f);
 FILA *inverter(FILA *a, PILHA *b);
+#endif
