@@ -1,3 +1,4 @@
 -   arvores AVL, são arvores que minimizam o numero de comparaoes que precisam 
 ser feitas no pior caso possivel
 -   porém precisamos, sempre que adicionar ou remover um nó, muda-lá novamente
+- isto torna a remoção,inserção,busca,etc. mais rapido do que seria antes
