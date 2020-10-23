@@ -1,2 +1,2 @@
 # trabalho de arvores
-- trabalho encontra-se em pdf,junto com todas as questões.
+- trabalho encontra-se em pdf, junto com todas as questões.
