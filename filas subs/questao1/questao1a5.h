@@ -6,8 +6,8 @@ struct no
     struct no *ant;
     struct no *prox;
 };
-#ifndef questao1a4_H
-#define questao1a4_H
+#ifndef questao1a5_H
+#define questao1a5_H
 typedef struct no No;
 
 typedef struct fila
