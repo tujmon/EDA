@@ -1,0 +1,3 @@
+-   Nós temos que nos dar o trabalho de usar arvores binárias, para que
+    consigamos ter um tempo de execução das outras funções minimo possivel
+    poupando tempo para o programa rodar de forma mais flúida.
